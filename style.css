@@ -1,0 +1,125 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
+}
+.heading-h1{
+    font-size: 60px;
+    
+}
+.paragraph-p{
+    font-size: 15px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.first-portion{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.6)),url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    padding-top: 100px;
+    text-align: center;   
+}
+.donate-button{
+    text-decoration: none;
+    background-image: background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%); 
+    font-weight: 500;
+    padding: 10px 20px;                 
+    border-radius: 4px
+}
+.second-portion{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 18px;
+    color:darkgoldenrod;
+}
+#donate-today{
+    font-size: 40px;
+    color: black;
+}
+.third-portion{
+  
+    display: flex;
+    color: rgb(157, 14, 14);
+    padding-left: 430px;
+    margin-bottom: 100px;
+    margin-top: 0px;
+}
+#a{
+     text-align: center;
+     width: 10%;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding-top:2%;
+     padding-bottom: 2%;
+     
+     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.102);
+}
+#b{
+     text-align: center;
+     width: 10%;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding-top:2%;
+     padding-bottom: 2%;
+     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.102);
+
+}
+#c{
+     text-align: center;
+     width: 10%;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding-top:2%;
+     padding-bottom: 2%;
+    
+     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.102);
+}
+#d{
+     text-align: center;
+     width: 10%;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding-top:2%;
+     padding-bottom: 2%;
+   
+     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.102);
+}
+#e{
+     text-align: center;
+     width: 10%;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding-top:2%;
+     padding-bottom: 2%;
+   
+     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.102);
+}
+
+#f{
+     text-align: center;
+     width: 10%;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding-top:2%;
+     padding-bottom: 2%;  
+     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.102);
+
+}
+.four-portion{
+    text-align: center;
+    color: rgba(165, 42, 42, 0.461);
+}
+.donate-here{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(179, 179, 190);
+    
+}
